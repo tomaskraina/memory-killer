@@ -156,6 +156,7 @@
 		9CCAC7A81BBD6C440031ADBA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Tom Kraina";
 				TargetAttributes = {
@@ -411,6 +412,7 @@
 				9CCAC7D11BBD6C440031ADBA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9CCAC7D21BBD6C440031ADBA /* Build configuration list for PBXNativeTarget "OutOfMemoryTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +421,7 @@
 				9CCAC7D41BBD6C440031ADBA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
